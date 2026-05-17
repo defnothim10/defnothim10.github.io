@@ -54,8 +54,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Guardian School Transit Bot</title>
-</head>
 <body style="text-align:center; font-family:Arial;">
   <h1>🚌 Guardian School Transit Bot</h1>
 
