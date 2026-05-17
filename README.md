@@ -26,8 +26,7 @@
 </body>
 </html><!DOCTYPE html>
 <html>
-<head>
-  <title>Privacy Policy - Guardian School Transit Bot</title>
+<head> 
 </head>
 <body>
   <h1>🔒 Privacy Policy</h1>
